@@ -1,6 +1,6 @@
 # Web Development Project 4 - *Art Museum.*
 
-Submitted by: **Charidi Stevens*
+Submitted by: **Charidi Stevens**
 
 This web app: **Art Museum. is a web app that uses Harvard Art Museums API**
 
