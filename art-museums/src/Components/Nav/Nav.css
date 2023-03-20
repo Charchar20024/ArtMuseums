@@ -1,0 +1,25 @@
+.Nav span {
+  margin: 0px 5px;
+  padding: 2px 10px;
+  border-bottom: 1px solid #ffffffde;
+}
+.Nav {
+  display: flex;
+  justify-content: space-between;
+}
+.Nav h2 {
+  margin-bottom: 10px;
+}
+.shuffle-img {
+  display: flex;
+  align-items: center;
+  margin-right: 0px;
+}
+.shuffle-img button {
+  padding: 20px 10px;
+  margin: 10px;
+  font-size: 20px;
+}
+.ban-list {
+  margin-left: 15px;
+}
